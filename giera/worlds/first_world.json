@@ -1,0 +1,11 @@
+{
+  "s1": "background.png",
+  "s2": "fw_s2.png",
+  "s3": "fw_s2.png",
+  "s01": "karczma.png",
+  "triggers": [],
+  "npc": [],
+  "enterable": [522, 290, 40, 40, 1, "object1"],
+  "item_spawns": [[203, 78, "loose", 1]],
+  "rects": [[1125, 680, 30, 400, 1], [120, 20, 400, 400, 1]]
+}
